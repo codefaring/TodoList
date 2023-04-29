@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">TodoList</string>
+    <string name="add_btn">추가하기</string>
+    <string name="low_btn">낮음</string>
+    <string name="middle_btn">보통</string>
+    <string name="high_btn">높음</string>
+    <string name="check_btn">완료</string>
+    <string name="importance">중요도</string>
+    <string name="edi_title">해야할 일을 입력하세요</string>
+    <string name="txt_title">제목</string>
+</resources>
